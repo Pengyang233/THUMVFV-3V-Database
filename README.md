@@ -1,2 +1,2 @@
-# THU-LMVFV-Database
+# THU-LMVFV Database
 Coming soon....
