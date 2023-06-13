@@ -1,6 +1,6 @@
 # THU-LMVFV Database
 
-THU-LMVFV database, a multi-view finger vein database collected over two sessions with an average interval of 45.8 days, including 660 classes with 12 samples per class. Three types of ROIs are provided.
+THU-LMVFV database, a multi-view finger vein database collected over two sessions with an average interval of 45.8 days, includs 660 classes with 12 samples per class. Three types of ROIs are provided.
 
 ### Publish date:
 2023-06
