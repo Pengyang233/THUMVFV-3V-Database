@@ -14,9 +14,12 @@ All rights of the THU-LMVFV database are reserved. The database is only availabl
 ### Contact Information:
 
 Wenming Yang, Associate Professor
+
 Pengyang Zhao, Ph.D. Candidate
 
+
 Visual Information Processing Lab. (VIP Lab.)
+
 E-mail: zhaopy17@mails.tsinghua.edu.cn
 
 
