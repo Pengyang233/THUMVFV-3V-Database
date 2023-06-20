@@ -9,7 +9,7 @@ THUMVFV-3V database, a multi-view finger vein database collected over two sessio
 Send the license agreement to zhaopy17@mails.tsinghua.edu.cn. The successful applicants will receive the download link for the THUMVFV-3V database.
 
 ### Copyright
-All rights of the THU-LMVFV database are reserved. The database is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
+All rights of the THUMVFV-3V database are reserved. The database is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
 
 ### Contact Information:
 
