@@ -6,7 +6,7 @@ THUMVFV-3V database, a multi-view finger vein database collected over two sessio
 2023-06
 
 ### Download:
-Send the license agreement to zhaopy17@mails.tsinghua.edu.cn. The successful applicants will receive the download link for the THUMVFV-3V database.
+Send the license agreement to yangelwm@163.com. The successful applicants will receive the download link for the THUMVFV-3V database.
 
 ### Copyright
 All rights of the THUMVFV-3V database are reserved. The database is only available for academic research and noncommercial purposes. Any commercial uses of this database are strictly prohibited.
@@ -15,14 +15,22 @@ All rights of the THUMVFV-3V database are reserved. The database is only availab
 
 Wenming Yang, Associate Professor
 
-Pengyang Zhao, Ph.D. Candidate
-
 
 Visual Information Processing Lab. (VIP Lab.)
 
-E-mail: zhaopy17@mails.tsinghua.edu.cn
+E-mail: yangelwm@163.com
 
 
 ### Related Papers:
 
-- Peng Z, Yi S, Si W et al. A new benchmark and Transformer-base model for multi-view finger vein recognition. (under review)
+- Zhao P, Song Y, Wang S, et al. VPCFormer: A transformer-based multi-view finger vein recognition model and a new benchmark[J]. Pattern Recognition, 2023: 110170.
+
+@article{ZHAO2024110170,
+title = {VPCFormer: A transformer-based multi-view finger vein recognition model and a new benchmark},
+journal = {Pattern Recognition},
+volume = {148},
+pages = {110170},
+year = {2024},
+doi = {https://doi.org/10.1016/j.patcog.2023.110170},
+author = {Pengyang Zhao and Yizhuo Song and Siqi Wang and Jing-Hao Xue and Shuping Zhao and Qingmin Liao and Wenming Yang},
+}
