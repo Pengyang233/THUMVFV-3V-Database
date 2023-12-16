@@ -25,6 +25,7 @@ E-mail: yangelwm@163.com
 
 - Zhao P, Song Y, Wang S, et al. VPCFormer: A transformer-based multi-view finger vein recognition model and a new benchmark[J]. Pattern Recognition, 2023: 110170.
 
+```
 @article{ZHAO2024110170,
 title = {VPCFormer: A transformer-based multi-view finger vein recognition model and a new benchmark},
 journal = {Pattern Recognition},
@@ -34,3 +35,4 @@ year = {2024},
 doi = {https://doi.org/10.1016/j.patcog.2023.110170},
 author = {Pengyang Zhao and Yizhuo Song and Siqi Wang and Jing-Hao Xue and Shuping Zhao and Qingmin Liao and Wenming Yang},
 }
+```
